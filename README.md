@@ -1,2 +1,2 @@
-# genesis
+# genesis files for mainnet and testnet
  
